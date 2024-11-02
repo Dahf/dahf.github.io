@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "downloadUrl": "https://dahf.github.io/csgo-market-sniper.exe",
-  "releaseNotes": "terminating process when quitting chrome driver+1"
+  "releaseNotes": "automatically redirect after login"
 }
