@@ -1,5 +1,6 @@
 {
   "version": "1.0.4",
-  "downloadUrl": "https://dahf.github.io/csgo-market-sniper.exe",
+  "downloadUrlWindows": "https://dahf.github.io/csgo-market-sniper.exe",
+  "downloadUrlMac": "https://dahf.github.io/csgo-market-sniper.bin",
   "releaseNotes": "automatically redirect after login"
 }
