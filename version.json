@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "downloadUrlWindows": "https://dahf.github.io/csgo-market-sniper.exe",
   "downloadUrlMac": "https://dahf.github.io/csgo-market-sniper.bin",
-  "releaseNotes": "added mac support"
+  "releaseNotes": "better client/bot comm"
 }
